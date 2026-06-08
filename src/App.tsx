@@ -29,16 +29,16 @@ const navItems = [
 ];
 
 const IMG = {
-  heroBg: 'https://images.unsplash.com/photo-1493238792000-8113da705763?w=1600&q=80',
-  heroSide: 'https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=900&q=80',
-  scooter: 'https://images.unsplash.com/photo-1556316384-12c35d30afa4?w=900&q=80',
-  bike: 'https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?w=900&q=80',
-  bikeAlt: 'https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=900&q=80',
-  skate: 'https://images.unsplash.com/photo-1547447134-cd3f5c716030?w=900&q=80',
-  skater: 'https://images.unsplash.com/photo-1572776685600-aca8c3456337?w=900&q=80',
-  wheel: 'https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=900&q=80',
-  urbanNight: 'https://images.unsplash.com/photo-1493238792000-8113da705763?w=1600&q=80',
-  community: 'https://images.unsplash.com/photo-1572776685600-aca8c3456337?w=1200&q=80',
+  heroBg: '/mobilite/trotinettes-veloElec.webp',
+  heroSide: '/mobilite/trottinette1.webp',
+  scooter: '/mobilite/trottinette2.webp',
+  bike: '/mobilite/velo1.webp',
+  bikeAlt: '/mobilite/velo2.webp',
+  skate: '/mobilite/skate1.webp',
+  skater: '/mobilite/skate2.webp',
+  wheel: '/mobilite/monoroue1.webp',
+  urbanNight: '/mobilite/trotinettes-veloElec.webp',
+  community: '/mobilite/monoroue-skate.webp',
 };
 
 const categories = [
