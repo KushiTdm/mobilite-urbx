@@ -159,3 +159,8 @@ img {
   }
   .badge-rotate { animation: none; }
 }
+
+@layer utilities {
+  .header-overlay > div:first-child .text-dark,
+  .header-overlay > div:first-child .nav-link { color: #fff; }
+}
